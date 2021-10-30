@@ -14,7 +14,7 @@ for i in range (10):
     else:
         odd.append(i)
 
-print ("even num is")
+print ("even num is an")
 print (eve)
-print ("odd num is")
+print ("odd num is an")
 print (odd)
